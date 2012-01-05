@@ -1,0 +1,36 @@
+div {
+  border: 1px solid black;
+  min-height: 40px;
+  margin-bottom: 5px;
+  padding: 5px;
+}
+
+.exercise {
+  padding: 20px;
+  margin: 20px;
+  border: 1px solid black;
+}
+
+.instructions {
+  background: #99B297;
+  border: none;
+  margin: -20px -20px 20px -20px;
+  padding: 10px 10px 5px 10px;
+}
+
+.instructions h2 {
+  margin: 0px 0px 10px 0px;
+}
+
+.instructions p {
+  margin-bottom: 5px;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+td {
+  border: 1px solid black;
+  padding: 5px;
+}
